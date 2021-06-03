@@ -1,0 +1,3 @@
+[submodule "Temper/3rdParty/spdlog"]
+	path = Temper/3rdParty/spdlog
+	url = https://github.com/gabime/spdlog
